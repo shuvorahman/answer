@@ -1,0 +1,18 @@
+{
+  "name": "Florence",
+  "homepage": "https://github.com/shuvorahman/answer",
+  "authors": [
+    "shuvorahman <shuvo.rahman.10@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
